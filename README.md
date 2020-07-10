@@ -7,4 +7,12 @@ Unsupervised machine learning uncovers previously unknown patterns in data and i
 
 K-means clustering is a popular unsupervised machine learning algorithm that groups similar data points together based on certain similarities to discover underlying patterns.  
 
-This research paper will explain: The purpose of the study The analysis of the data set The process of cleaning the data Identification of a phishing theme using clustering Our conclusions
+This research paper will explain: 
+
+1. The purpose of the study 
+
+2. The analysis of the data set 
+
+3. The process of cleaning the data Identification of a phishing theme using clustering 
+
+4. Our conclusions
